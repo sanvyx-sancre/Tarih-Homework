@@ -200,3 +200,19 @@ video {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+#kaynakca {
+  margin-top: 30px;
+  font-size: 16px;
+  text-align: center;
+}
+
+#kaynakca h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#kaynakca p {
+  font-style: italic;
+}
+
+
